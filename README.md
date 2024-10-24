@@ -8,5 +8,7 @@ After that:
 
 The existed accounts:
 1. account 1: yenka.dev@gmail.com and pw: 123456
-2. account 2: hieulu.dev@gmail.com and pw: 123456
-2. account 3: tuanpham.dev@gmail.com and pw: 123456
+2. account 2: hieulu@gmail.com and pw: 123456
+3. account 3: tuanpham@gmail.com and pw: 123456
+4. account 4: vinhle@gmail.com and pw: 123456
+5. account 5: trangnguyen@gmail.com and pw: 123456
